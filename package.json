@@ -1,0 +1,15 @@
+{
+  "name": "io_game",
+  "version": "1.0.0",
+  "description": "An attempt to make an IO game and further knowledge of Web Coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
